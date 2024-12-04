@@ -42,5 +42,5 @@ public abstract class BackPackingSolverSmartBase : BackPackingSolverBase
     }
 
     protected abstract double ActualItemValue(BackPackItem item);
-
+ 
 }
